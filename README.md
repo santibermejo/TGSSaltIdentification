@@ -4,4 +4,4 @@ Dataset downloaded from [Kaggle](https://www.kaggle.com/c/tgs-salt-identificatio
 
 ## Overview
 
-With Google Colab I built a CNN (U-Net) to predict salt deposits in seismic images.
+With Google Collab I built a CNN (U-Net) to predict salt deposits in seismic images.
